@@ -1,13 +1,66 @@
-# 📈데이터로 말하겠습니다. 안녕하세요, 데이터 분석가 고성빈입니다.
-##### <br>
-
-- 📫 contect : sbinhigher@naver.com
-- notion : https://www.notion.so/o-17589b3f2b2d80e389f7c5ad9ffb55d5?source=copy_link
-- velog : https://velog.io/@tjdqls3324/posts
-- Github : https://github.com/sbinhigher
-
 ## Contents
-1. [프로젝트](#프로젝트)
+
+1. [소개](#데이터-분석가-고성빈입니다)
+2. [보유 기술](#보유-기술)
+3. [경력](#경력)
+4. [프로젝트](#프로젝트)
+5. [활동 및 수상](#활동-및-수상)
+6. [자격](#자격)
+7. [기타](#기타)
+
+---
+
+### 📈 데이터로 말하겠습니다.
+## 데이터 분석가 고성빈입니다.
+>[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/o-17589b3f2b2d80e389f7c5ad9ffb55d5?source=copy_link)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tjdqls3324/posts)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbinhigher)
+
+``` abstracts
+저의 깃헙에 방문해주셔서 감사합니다.
+맡은 프로젝트 성공을 위해서 끊임없이 고민했습니다.
+```
+## 보유 기술
+### 🖥️ Languages & Environment
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+>>#### Data Handling & Preprocessing
+>>![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+>>
+>>#### Data Crawling
+>>![requests](https://img.shields.io/badge/requests-2e6b73?style=for-the-badge&logo=python&logoColor=white)
+![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+>>
+>>#### Image Processing
+>>![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-FFD343?style=for-the-badge&logo=python&logoColor=white)
+![ImageAI](https://img.shields.io/badge/Image-2B3E50?style=for-the-badge&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv7-FF6600?style=for-the-badge&logo=python&logoColor=white)
+>
+> ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+### 💾 Database & Querying
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Visualization & Tool
+>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+>> #### Libraries
+>>![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-49A2A6?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+>
+>![Tableau](https://img.shields.io/badge/Tableau-00539F?style=for-the-badge&logo=tableau&logoColor=E97627)
+### 🛠️ Team Collaboration Tool
+> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-E51C23?style=for-the-badge&logo=asana&logoColor=white)
+---
+## 경력
 ---
 
 ## 프로젝트
@@ -79,44 +132,8 @@
 - 각 호기 및 파트별로 균등하게 샘플링하여 데이터셋 분할 (8:1.5:0.5)
 
 ---
-## Skills
-### 🖥️ Languages & Environment
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
->>#### Data Handling & Preprocessing
->>![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
->>
->>#### Data Crawling
->>![requests](https://img.shields.io/badge/requests-2e6b73?style=for-the-badge&logo=python&logoColor=white)
-![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
->>
->>#### Image Processing
->>![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-FFD343?style=for-the-badge&logo=python&logoColor=white)
-![ImageAI](https://img.shields.io/badge/Image-2B3E50?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv7-FF6600?style=for-the-badge&logo=python&logoColor=white)
->
-> ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-### 💾 Database & Querying
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Visualization & Tool
->![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
->> #### Libraries
->>![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-49A2A6?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
->
->![Tableau](https://img.shields.io/badge/Tableau-00539F?style=for-the-badge&logo=tableau&logoColor=E97627)
-### 🛠️ Team Collaboration Tool
-> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-E51C23?style=for-the-badge&logo=asana&logoColor=white)
-
-
+## 활동 및 수상
+---
+## 자격
+---
+## 기타
