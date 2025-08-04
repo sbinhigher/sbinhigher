@@ -1,10 +1,13 @@
 # 📈데이터로 말하겠습니다. 안녕하세요, 데이터 분석가 고성빈입니다.
-
+##### <br>
 
 - 📫 contect : sbinhigher@naver.com
 - notion : https://www.notion.so/o-17589b3f2b2d80e389f7c5ad9ffb55d5?source=copy_link
 - velog : https://velog.io/@tjdqls3324/posts
 - Github : https://github.com/sbinhigher
+
+## Contents
+1. [프로젝트](#프로젝트)
 ---
 
 ## 프로젝트
