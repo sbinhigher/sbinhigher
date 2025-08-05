@@ -1,6 +1,6 @@
 ## Contents
 
-1. [소개](#데이터-분석가-고성빈입니다)
+1. [소개](#안녕하세요-데이터-분석가-고성빈입니다)
 2. [보유 기술](#보유-기술)
 3. [경력](#경력)
 4. [프로젝트](#프로젝트)
@@ -11,15 +11,50 @@
 ---
 
 ### 📈 데이터로 말하겠습니다.
-## 데이터 분석가 고성빈입니다.
+## 안녕하세요, 데이터 분석가 고성빈입니다.
 >[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/o-17589b3f2b2d80e389f7c5ad9ffb55d5?source=copy_link)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tjdqls3324/posts)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbinhigher)
+>
+> [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbinhigher@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbinhigher)
 
 ``` abstracts
 저의 깃헙에 방문해주셔서 감사합니다.
 맡은 프로젝트 성공을 위해서 끊임없이 고민했습니다.
 ```
+
+---
+
+## 경력
+
+#### [데이터 분석가] (주)골든플래닛 (2022.11-2024.11)
+
+1. 풍력발전기 블레이드 결함 탐지 솔루션 개발 <sub>[+ 더보기](#풍력발전기-블레이드-결함-탐지-솔루션-개발)</sub>
+   > 프로젝트 기간 : 2022.11-2024.6
+3. 제주도 내 도로 통제 예측을 통한 치안 공백 문제 <sub>[+ 더보기](#풍력발전기-블레이드-결함-탐지-솔루션-개발)</sub>
+   > 프로젝트 기간 : 2023.03-2024.11
+4. 렌터카 차량 데미지 탐지 솔루션 개발 <sub>[+ 더보기](#풍력발전기-블레이드-결함-탐지-솔루션-개발)</sub>
+   > 프로젝트 기간 : 2024.01-2024.11
+5. 화재현장 자동 이미지 분류 및 이미지 스티칭 프로젝트 <sub>[+ 더보기](#풍력발전기-블레이드-결함-탐지-솔루션-개발)</sub>
+   > 프로젝트 기간 : 2024.07-2024.10
+
+#### [파트타임] (재)제주테크노파크 (2022.07-2022.08)
+
+1. 카드 데이터, 외식업 포스 데이터 읍면동 시각화 작업 <sub>[+ 더보기](#풍력발전기-블레이드-결함-탐지-솔루션-개발)</sub>
+   > 프로젝트 기간 : 2022.07-2022.08
+2. 제주특산물 관련 텍스트에 따른 비정형 데이터 분석 <sub>[+ 더보기](#풍력발전기-블레이드-결함-탐지-솔루션-개발)</sub>
+   > 프로젝트 기간 : 2022.07-2022.08
+
+#### [인턴] (재)제주테크노파크 (2021.09-2022.02)
+
+1. 농수산물 입찰 데이터 전처리 및 시각화 <sub>[+ 더보기](#풍력발전기-블레이드-결함-탐지-솔루션-개발)</sub>
+   > 프로젝트 기간 : 2021.09-2021.10
+2. 제주특산물 관련 텍스트에 따른 비정형 데이터 분석 <sub>[+ 더보기](#풍력발전기-블레이드-결함-탐지-솔루션-개발)</sub>
+   > 프로젝트 기간 : 2021.10-2021.11
+
+---
+
 ## 보유 기술
 ### 🖥️ Languages & Environment
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,9 +95,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-E51C23?style=for-the-badge&logo=asana&logoColor=white)
 ---
-## 경력
----
-
 ## 프로젝트
 ###### <br>
 ### **풍력발전기 블레이드 결함 탐지 솔루션 개발**
