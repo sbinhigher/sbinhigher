@@ -158,7 +158,9 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<a href="https://github.com/WongKinYiu/yolov7">
   <img src="https://img.shields.io/badge/YOLOv7-black?style=flat&logo=github&logoColor=white"/>
+</a>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Labelme-FFB000?style=flat&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
@@ -198,5 +200,11 @@
 
 ---
 ## 자격
+
+| 자격증명              | 취득일     | 발급기관               |
+|----------------------|------------|------------------------|
+| SQLD                 | 2024.06    | 한국데이터산업진흥원   |
+| 빅데이터 분석기사     | 2022.07    | 한국데이터산업진흥원   |
+| ADsP                 | 2021.12    | 한국데이터산업진흥원   |
 ---
 ## 기타
