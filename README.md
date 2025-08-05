@@ -197,6 +197,59 @@
 ---
 ## 활동 및 수상
 
+#### 1️⃣ [교육 이수] 2021년 공공 빅데이터 분석 청년인재 양성 데이터 전문 교육과정 수료
+| 항목     | 내용                                      |
+|---------|-------------------------------------------|
+| 활동 기간 | 2021.06 ~ 2022.02                        |
+| 주최     | 한국지능정보사회연구원(NIA)              |
+##### 📌 프로젝트
+- 대중교통 관광활성화를 위한 맞춤형 관광지 순환버스 노선 선정
+
+#### 2️⃣ [학술 활동] 『COVID 19로 인한 제주 관광의 변화 추이 분석 - 빅데이터 분석을 중심으로 -』 논문 집필
+| 항목     | 내용                                      |
+|---------|-------------------------------------------|
+| 활동 기간 | 2021.12-2022.06                   |
+| 역할     | 데이터 분석(제1저자)           |
+| 소속     | 제주대학교            |
+| 🔗 KCI 원문  | [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002851856)           |
+| 🔗 Repository  | [View on Github](https://github.com/sbinhigher)           |
+
+##### 📊 성과 및 영향력
+
+| 지표            | 수치    |
+|-----------------|---------|
+| 국내 피인용 횟수 | 16회    |
+| FWCI            | 5.23    |
+| KCI 열람 수     | 978회   |
+##### 📌 논문 개요
+```
+코로나19 팬데믹이 제주 관광 산업에 미친 영향을 빅데이터를 활용해 분석한 연구입니다.  
+SNS 및 블로그 등 온라인 관광 관련 텍스트 데이터를 수집·분석하여, 팬데믹 전후 관광객의 여행 방식과 관심사 변화를 실증적으로 파악하였습니다.  
+이를 통해 제주 관광 정책 및 마케팅 전략 수립에 필요한 데이터 기반 인사이트를 제공하였습니다.
+```
+##### 🔍 분석 내용 및 방법론  
+- **데이터 수집:** 네이버 블로그 등에서 코로나19 이전·이후 제주 관광 관련 게시글 수집
+- **텍스트 마이닝:** 자연어 처리로 의미 있는 키워드 추출 및 빈도 분석  
+- **네트워크 분석:** 키워드 간 관계망 시각화 및 중심성 분석으로 핵심 트렌드 도출  
+- **비교 분석:** 팬데믹 전후 키워드 및 트렌드 변화를 비교하여 관광 패턴 변화 확인
+
+##### 🛠️ 사용기술 및 툴(tool)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ucinet-0069A8?style=flat&logo=Ucinet&logoColor=white" alt="Ucinet" />
+  <img src="https://img.shields.io/badge/YOLOv7-black?style=flat&logo=github&logoColor=white"/>
+</a>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/requests-2e6b73?style=flat&logo=python&logoColor=white" alt="requests" />
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="selenium" />
+</p>
+
+##### 💡 시사점  
+- 사회적 거리두기 및 안전 우려가 지속가능한 분산 관광 수요 증가로 연결  
+- 데이터 기반 실시간 관광객 수요 모니터링과 맞춤형 관광 상품 개발 필요  
+- 친환경·자연 친화 관광 콘텐츠 강화 및 소규모 여행객 대상 서비스 확대 제안  
+- 위기 대응을 위한 분산 정책과 방역 연계 관광지 관리 전략 중요성 강조
 
 ---
 ## 자격
@@ -208,3 +261,9 @@
 | ADsP                 | 2021.12    | 한국데이터산업진흥원   |
 ---
 ## 기타
+
+
+
+
+
+
