@@ -133,7 +133,7 @@
 |------------------|----------------------------------------------------------------------|
 | 프로젝트 기간     | 2022.11 – 2024.06                                                    |
 | 참여 인원        | 4명                                                                   |
-| 🔗 Repository       | [View on GitHub](https://github.com/sbinhigher/image_labeling_project) |
+| 🔗 Repository       | [View on GitHub](https://github.com/sbinhigher/wind-turbine-blade-defect-detection) |
 #### 🔍 프로젝트 분류  
 `이미지 처리(Image Processing)` · `이미지 객체 탐지(Object Detection)` · `데이터 라벨링(Data Labeling)`
 #### 🙋 역할  
