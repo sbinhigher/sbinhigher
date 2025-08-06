@@ -120,6 +120,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 >
 >![Tableau](https://img.shields.io/badge/Tableau-00539F?style=for-the-badge&logo=tableau&logoColor=E97627)
+>
+><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 ### 🛠️ Team Collaboration Tool
 > ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -204,6 +206,21 @@
 | 주최     | 한국지능정보사회연구원(NIA)              |
 #### 📌 프로젝트
 - 대중교통 관광활성화를 위한 맞춤형 관광지 순환버스 노선 선정
+  - 프로젝트 목표 : Q-GIS 기반 유동인구·외식업 데이터 버퍼 분석을 통한 순환버스 노선 제안
+  - 참여인원 : 5인
+  - 프로젝트 기간 : 2021.07-2021.08
+
+
+#### 🛠️ 사용기술 및 툴(tool)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flate&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/requests-2e6b73?style=flat&logo=python&logoColor=white" alt="requests" />
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="selenium" />
+
+</p>
+
 
 ### 2️⃣ [학술 활동] 『COVID 19로 인한 제주 관광의 변화 추이 분석 - 빅데이터 분석을 중심으로 -』 논문 집필
 | 항목     | 내용                                      |
@@ -238,8 +255,6 @@ SNS 및 블로그 등 온라인 관광 관련 텍스트 데이터를 수집·분
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ucinet-0069A8?style=flat&logo=Ucinet&logoColor=white" alt="Ucinet" />
-  <img src="https://img.shields.io/badge/YOLOv7-black?style=flat&logo=github&logoColor=white"/>
-</a>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/requests-2e6b73?style=flat&logo=python&logoColor=white" alt="requests" />
   <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="selenium" />
