@@ -17,10 +17,14 @@
 >
 > [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbinhigher@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbinhigher)
+### 간략 소개
+```
+저의 깃허브에 방문해주셔서 감사합니다.
 
-``` abstracts
-저의 깃헙에 방문해주셔서 감사합니다.
-맡은 프로젝트 성공을 위해서 끊임없이 고민했습니다.
+안녕하세요, 데이터 프로젝트 운영하고 리드한 경험이 있는 데이터 분석가 고성빈입니다.
+풍력발전기, 교통, 관광 등 다양한 도메인에서 데이터 분석과 이미지 객체 탐지 프로젝트를 수행했습니다.
+분석 과정에서 도메인 이해와 KPI 기반의 문제 정의가 성과에 미치는 영향을 체감하며, SQL 역량 강화와 비즈니스 KPI 도출 및 개선 방향 설계에 깊은 관심을 갖고 학습 중입니다.
+작은 것도 다시 보고, 모르는 건 끝까지 파고드는 태도로 실질적인 가치를 만드는 데이터 분석가가 되겠습니다.
 ```
 
 ---
