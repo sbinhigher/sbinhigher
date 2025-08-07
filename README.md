@@ -298,7 +298,6 @@
 | 역할     | 데이터 분석(제1저자)           |
 | 소속     | 제주대학교            |
 | 🔗 KCI 원문  | [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002851856)           |
-| 🔗 Repository  | [View on Github](https://github.com/sbinhigher)           |
 
 #### 📊 성과 및 영향력
 
@@ -389,6 +388,6 @@ SNS 및 블로그 등 온라인 관광 관련 텍스트 데이터를 수집·분
 
 #### 개인 학습 블로깅 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@tjdqls3324/posts) 
   - Programmers, leetcode 등 문제 풀이
-  - KPI 지표 출력
+  - 비지니스 KPI 지표 추출
 
 
