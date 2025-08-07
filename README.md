@@ -6,7 +6,7 @@
 4. [프로젝트](#프로젝트)
 5. [활동 및 수상](#활동-및-수상)
 6. [자격](#자격)
-7. [개인 공부](#개인 공부)
+7. [개인 공부](#개인-공부)
 
 ---
 
@@ -266,6 +266,16 @@ SNS 및 블로그 등 온라인 관광 관련 텍스트 데이터를 수집·분
 - 친환경·자연 친화 관광 콘텐츠 강화 및 소규모 여행객 대상 서비스 확대 제안  
 - 위기 대응을 위한 분산 정책과 방역 연계 관광지 관리 전략 중요성 강조
 
+### 3️⃣ Tableau Bootcamp 28th 교육 수료
+
+| 항목     | 내용                                      |
+|---------|-------------------------------------------|
+| 활동 기간 | 2025.07-2025.08                   |
+
+#### 수료증
+
+
+
 ---
 ## 자격
 
@@ -277,8 +287,9 @@ SNS 및 블로그 등 온라인 관광 관련 텍스트 데이터를 수집·분
 ---
 ## 개인 공부
 
-#### SQL 코딩테스트 준비
- - MySQL 개인 공부 블로깅 : [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@tjdqls3324/posts)
-
+#### 개인 학습 블로깅 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@tjdqls3324/posts) 
+  - Programmers, leetcode 등 문제 풀이
+  - KPI 지표 출력
+#### [Tableau] 부트캠프 교육 수료
 
 
