@@ -9,7 +9,7 @@
 
 ---
 
-### 📈 데이터로 말하겠습니다.
+### 📈 작은 것도 다시보고, 모르는 건 끝까지 파고들겠습니다.
 ## 안녕하세요, 데이터 분석가 고성빈입니다.
 >[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/o-17589b3f2b2d80e389f7c5ad9ffb55d5?source=copy_link)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tjdqls3324/posts)
