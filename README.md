@@ -202,11 +202,15 @@
 ---
 -->
 ### 2️⃣ [프로젝트]**풍력발전기 블레이드 결함 탐지 솔루션 개발**
+
+<img src="https://github.com/sbinhigher/sbinhigher/blob/fa570109f9792fbd5225118581c3a53e52cc3d5c/images/project1/003.jpg" width="400"/><img src="https://github.com/sbinhigher/sbinhigher/blob/2002086e23bdc5ce855cd20be0858c4410185826/images/project1/004.jpg" width="400"/>
+<img src="https://github.com/sbinhigher/sbinhigher/blob/2002086e23bdc5ce855cd20be0858c4410185826/images/project1/006.jpg" width="400"/><img src="https://github.com/sbinhigher/sbinhigher/blob/2002086e23bdc5ce855cd20be0858c4410185826/images/project1/007.jpg" width="400"/>
+<img src="https://github.com/sbinhigher/sbinhigher/blob/2002086e23bdc5ce855cd20be0858c4410185826/images/project1/008.jpg" width="400"/><img src="https://github.com/sbinhigher/sbinhigher/blob/2002086e23bdc5ce855cd20be0858c4410185826/images/project1/009.jpg" width="400"/>
+
 | 항목             | 내용                                                                 |
 |------------------|----------------------------------------------------------------------|
 | 프로젝트 기간     | 2022.11 – 2024.06                                                    |
 | 참여 인원        | 4명                                                                   |
-<img src="https://github.com/sbinhigher/sbinhigherimages/project1/003.jpg" width="400"/>
 
 #### 🔍 프로젝트 분류  
 `이미지 처리(Image Processing)` · `이미지 객체 탐지(Object Detection)` · `데이터 라벨링(Data Labeling)`
