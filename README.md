@@ -151,6 +151,28 @@
 `이커머스 데이터 분석(E-commerce Analytics)` · `전환율 예측(Conversion Prediction)` · `행동로그 분석(Behavior Analytics)`
 
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "fontSize": "16px"                 /* 전체 기본 글자 크기 상향 */
+  },
+  "themeCSS": "
+    /* 일반 노드/엣지 라벨 사이즈 상향 */
+    .nodeLabel{ font-size:20px; }
+    .edgeLabel{ font-size:18px; }
+
+    /* 모든 서브그래프(클러스터) 타이틀 볼드 & 크기 상향 */
+    .cluster-label{ font-weight:700; font-size:18px; }
+
+    /* 파이프라인(PIPELINE) 타이틀만 더 크게/더 볼드
+       - 대부분의 렌더러는 cluster_<id> 형태의 id를 가짐 */
+    #cluster_PIPELINE .cluster-label{ font-size:22px; font-weight:800; }
+    /* 혹시 위 셀렉터가 안 먹는 경우 대비(대체 셀렉터들) */
+    g#PIPELINE .cluster-label{ font-size:22px; font-weight:800; }
+    g[id='cluster_PIPELINE'] .cluster-label{ font-size:22px; font-weight:800; }
+  "
+}}%%
+
 flowchart LR
   %% ====== 바깥 큰 상자(컨테이너) ======
   subgraph PIPELINE[프로젝트 개요]
@@ -172,25 +194,29 @@ flowchart LR
       H2[Hʙ </br> 첫 담기 시간대가 저녁일수록 전환↑]:::hypo
     end
 
-		subgraph G[데이터 분석]
-			direction TB
-			G1[가설 검증: 통계 검정\/효과 추정]
-			G2[예측·분류 모델: LogReg → XGBoost]
-			G1 --> G2
-		end
-		
-		subgraph I[결과 해석]
+	subgraph G[데이터 분석]
 		direction TB
-			I1[인사이트 추출<br/>행동·시간대 기반 전환 인사이트<br/>마케팅 전략 수립·제안]
-			I2[성능 평가<br/>AUC\/PR\/F1 및 안정성]
-			I1 --> I2
-		end
+		G1[가설 검증: 통계 검정\/효과 추정]
+		G2[예측·분류 모델: LogReg → XGBoost]
+		G1 --> G2
+	end
+	
+	subgraph I[결과 해석]
+	direction TB
+		I1[인사이트 추출<br/>행동·시간대 기반 전환 인사이트<br/>마케팅 전략 수립·제안]
+		I2[성능 평가<br/>AUC\/PR\/F1 및 안정성]
+		I1 --> I2
+	end
 	
   end
 
   %% 스타일
   classDef hypo fill:#FFF4E5,stroke:#F59E0B,stroke-width:2px,color:#7C2D12;
   classDef muted fill:#fafafa,stroke:#d8d8d8,color:#7a7a7a,stroke-dasharray:4 3;
+  style PIPELINE fill:#FFFFFF,stroke:#C9CDD1,stroke-width:2px;
+  style H fill:#FFFFFF,stroke:#C9CDD1,stroke-width:2px;
+  style G fill:#FFFFFF,stroke:#C9CDD1,stroke-width:2px;
+  style I fill:#FFFFFF,stroke:#C9CDD1,stroke-width:2px;
 
 ```
 
