@@ -161,9 +161,9 @@
 
 #### 문제 해결 방법
 1. **가설 정립**:  
-   - H1: 장바구니 **유지시간(`cart_duration`)**이 짧을수록 전환↑  
-   - H2: 장바구니 **첫 담기 시간대(`hour_first`)**가 **저녁(18–22시)**일수록 전환↑
-2. **피처 엔지니어링**: `cart_duration`, `hour_first`, `weekday_first`, `view_count`, `cart_count`, `price_mean`, `category_main_freq`, `cart_to_view_ratio`, `session_duration_min` 설계  
+   - H1: 장바구니 **유지시간(`cart_duration`)** 이 짧을수록 전환↑  
+   - H2: 장바구니 **첫 담기 시간대(`hour_first`)** 가 **저녁(18–22시)** 일수록 전환↑
+2. **피처 엔지니어링(파생변수 생성)**: </br> `cart_duration`, `hour_first`, `weekday_first`, `view_count`, `cart_count`, `price_mean`, `category_main_freq`, `cart_to_view_ratio`, `session_duration_min`
 3. **모델링(분류)**: 베이스라인 **Logistic Regression** → 보완모델 **XGBoost** 후보군 구성(세션 단위 전환 확률)  
 4. **데이터 불균형 대응**: 언더/오버 샘플링, **train/test=70:30** 분할  
 5. **교차 검증·해석**: 통계 검정 결과와 **변수 중요도(설명가능성)** 일치 여부로 가설 보강  
@@ -192,7 +192,16 @@
 - **설명가능성 강화** → 계수 해석(로지스틱) + 트리계열 중요도/Partial Dependence로 교차 점검
 
 #### 🛠️ 사용기술 및 툴(tool)
-Python · pandas · scikit-learn · XGBoost · NumPy · Matplotlib
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB8C23?style=flat&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+</p>
+
 
 <!--
 #### 🚀 목표 및 성과
@@ -203,9 +212,6 @@ Python · pandas · scikit-learn · XGBoost · NumPy · Matplotlib
 | 🎯 진단 정확도 | 측정 불가 | Ground Truth 기반 평가 | **재현율(Recall) 0.9 달성** |
 #### 🛠️ 사용기술 및 툴(tool)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-</p>
 
 #### 📌 Pain Point & 개선 방안
 > 
