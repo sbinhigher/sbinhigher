@@ -150,6 +150,51 @@
 #### 🔍 프로젝트 분류  
 `이커머스 데이터 분석(E-commerce Analytics)` · `전환율 예측(Conversion Prediction)` · `행동로그 분석(Behavior Analytics)`
 
+```mermaid
+flowchart LR
+  %% ====== 바깥 큰 상자(컨테이너) ======
+  subgraph PIPELINE[프로젝트 개요]
+    direction LR
+
+    %% 메인 플로우
+    A[데이터 수집] --> B[EDA]
+    B --> D[발견: 장바구니 기능이 전환에 유의한 영향]
+
+    %% 분기
+    D --> H
+    H --> G
+		G --> I
+
+    %% 데이터 분석 서브그래프(큰 상자 내부의 작은 상자)
+    subgraph H[가설 설계]
+      direction TB
+      H1[Hᴀ </br> 장바구니 유지시간이 짧을수록 전환↑]:::hypo
+      H2[Hʙ </br> 첫 담기 시간대가 저녁일수록 전환↑]:::hypo
+    end
+
+		subgraph G[데이터 분석]
+			direction TB
+			G1[가설 검증: 통계 검정\/효과 추정]
+			G2[예측·분류 모델: LogReg → XGBoost]
+			G1 --> G2
+		end
+		
+		subgraph I[결과 해석]
+		direction TB
+			I1[인사이트 추출<br/>행동·시간대 기반 전환 인사이트<br/>마케팅 전략 수립·제안]
+			I2[성능 평가<br/>AUC\/PR\/F1 및 안정성]
+			I1 --> I2
+		end
+	
+  end
+
+  %% 스타일
+  classDef hypo fill:#FFF4E5,stroke:#F59E0B,stroke-width:2px,color:#7C2D12;
+  classDef muted fill:#fafafa,stroke:#d8d8d8,color:#7a7a7a,stroke-dasharray:4 3;
+
+```
+
+
 #### 역할  
 - 분석 설계 총괄: **가설(H1/H2) 수립 → 피처 엔지니어링 → 모델링 → 해석**  
 - 실험 프레임 구축: **교차 검증** 및 **변수 중요도 vs 통계검정 결과** 정합성 점검  
